@@ -30,9 +30,3 @@ lakshivs-unity-section-1/
 └── README.md
 ```
 
-## Notes for Graders
-
-- Each project folder (`Unity Essentials`, `Car Prototype`, `Plane Prototype`) is a full Unity project — open with **Unity Hub → Add project from disk**, pointing at the specific subfolder.
-- Playable builds are hosted on Unity Play (links above) so they can be viewed directly in a browser without opening the Unity Editor.
-- `Screenshots/Pathway Completion Screenshots.pdf` shows completed missions with username visible, per the submission requirements.
-- `Junior Programmer/Design Document/Project Design Doc.pdf` is the design document for a new game concept, required alongside the Junior Programmer deliverables.
